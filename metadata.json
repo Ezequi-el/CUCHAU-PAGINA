@@ -1,0 +1,6 @@
+{
+  "name": "PrivaKey - Tienda Digital Privada",
+  "description": "Tienda privada de productos digitales con saldo en pesos mexicanos (MXN), invitaciones de un solo uso, entrega automática y gestión de garantías.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
